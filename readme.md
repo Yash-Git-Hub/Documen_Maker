@@ -7,12 +7,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors]][contributors-url]
-[![Forks]][forks-url]
-[![Stargazers]][stars-url]
-[![Issues]][issues-url]
-[![MIT License]][license-url]
-[![LinkedIn]][linkedin-url]
+[[Contributors]][contributors-url]
+[[Forks]][forks-url]
+[[Stargazers]][stars-url]
+[[Issues]][issues-url]
+[[MIT License]][license-url]
+[[LinkedIn]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />

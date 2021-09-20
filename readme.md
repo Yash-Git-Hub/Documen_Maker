@@ -18,7 +18,7 @@
 <br />
 <p align="center">                                                                                                                                                                                      
   <a href="https://github.com/Yash-Git-Hub/Documen_Maker">
-    <img src="https://png2.cleanpng.com/dy/18a1a1848c8648b6f726023db0f64acb/L0KzQYm3VcA2N513j5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfRwa6ZyfdD9LXbsfLa0hv9zdZJ5RadqZXS6SYnpVck5Omo6RqgCOUSzSYK3UcUzPWY2SqcDN0O5Roe1kP5o/kisspng-computer-icons-document-file-format-5aed798b598295.6794091015255125873666.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo.png" alt="Logo" width="80" height="80">
   </a>
                                                                                                                                          
   <h3 align="center">DOCUMENT MAKER </h3>

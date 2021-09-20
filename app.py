@@ -127,5 +127,8 @@ def main():
                             file_name="MY_NEET_PASSPORT_PHOTO.jpg",
                             mime="image/jpeg"
                         )
+    if(at=="About"):
+         st.title("Document Maker .")
+         st.write("This tool has been designed by Yash Singh Pathania to format documents for various competetive exams and help people in easily filling their forms while avoiding the need to upload their picture to scammy unsafe websites that may use them for ulterior motives , the tool is a simple easy to use tool designed to resize and compress images into the default size and format of these exams. One could be stress free regarding the same and simply just download and put the files up.")
                 
 main()
